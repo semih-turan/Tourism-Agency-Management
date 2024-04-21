@@ -28,7 +28,7 @@ public class LoginView extends Layout {
         userDao = new UserDao();            // Initialize user data access object
         userManager = new UserManager();    // Initialize user manager object
         add(container);                     // Add the main container panel to the layout
-        pageArt(500, 500, "Tourism Agency Management");  // Set the page dimensions and title
+        pageArt(500, 500, "Travel Agency Management");  // Set the page dimensions and title
         setTheme("Nimbus");                 // Set the look and feel theme to Nimbus
 
         // ActionListener for the login button

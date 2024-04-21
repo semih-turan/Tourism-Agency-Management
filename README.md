@@ -32,6 +32,10 @@ Patika Travel Agency is ready for digital transformation. The Hotels Management 
 4. Configure the database connection in `src/Log/data.txt`.
 5. Compile and run the project.
 
+P.S: Default admin login credentials
+Username: admin
+Password: admin
+
 ## Screenshots
 
 ![](assets/1.png)

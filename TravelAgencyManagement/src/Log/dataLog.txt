@@ -1,0 +1,960 @@
+4/21/24, 5:37 PM - The new connection has been made.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:37 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:37 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:37 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:37 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:37 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:37 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:37 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:37 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:37 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:37 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:37 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:37 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:37 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:37 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:37 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:37 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:37 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:37 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:37 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:37 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:37 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:37 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:37 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:37 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:37 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:37 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:37 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:37 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:37 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:37 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 5:38 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:02 PM - The new connection has been made.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:02 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:02 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:02 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:02 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:02 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:02 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:02 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:02 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:02 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:02 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:02 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:02 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:02 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:02 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:02 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:02 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:02 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 6:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
