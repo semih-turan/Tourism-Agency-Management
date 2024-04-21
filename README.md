@@ -37,8 +37,8 @@ Username: admin
 Password: admin
 
 ## Video
+[![Demo Video](https://drive.google.com/file/d/1WPjrb0quuAfROPemSSMvwkoZWyw-2Iuq/view)]()
 
-<iframe src="https://drive.google.com/file/d/1WPjrb0quuAfROPemSSMvwkoZWyw-2Iuq/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Screenshots
 
