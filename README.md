@@ -24,7 +24,7 @@ Patika Travel Agency is ready for digital transformation. The Hotels Management 
 
 1. Clone the project:
     ```bash
-    git clone https://github.com/your_username/patika-tourism-agency.git
+    git clone https://github.com/semih-turan/Travel-Agency-Management.git
     ```
 2. Install PostgreSQL
 3. Import SQL/travelagencymanagement.sql on your database
