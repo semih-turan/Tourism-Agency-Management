@@ -36,6 +36,8 @@ P.S: Default admin login credentials
 Username: admin
 Password: admin
 
+## Video
+[![Watch the video](https://drive.google.com/file/d/1WPjrb0quuAfROPemSSMvwkoZWyw-2Iuq/view)](https://drive.google.com/file/d/1WPjrb0quuAfROPemSSMvwkoZWyw-2Iuq/view)
 ## Screenshots
 
 ![](assets/1.png)
