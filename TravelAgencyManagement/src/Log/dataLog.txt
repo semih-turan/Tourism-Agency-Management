@@ -958,3 +958,109 @@ URL: jdbc:postgresql://localhost:5432/travelagencymanagement
 USERNAME: postgres
 PASSWORD: postgres
 ---------------------------
+4/21/24, 7:00 PM - Error: java.sql.SQLException: The url cannot be null
+----------------------------------
+4/21/24, 7:01 PM - Error: java.sql.SQLException: The url cannot be null
+----------------------------------
+4/21/24, 7:03 PM - The new connection has been made.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 7:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 7:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 7:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 7:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 7:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 7:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 7:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 7:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 7:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 7:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 7:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 7:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 7:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 7:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 7:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
+4/21/24, 7:03 PM - The connection was made successfully without interruption.
+Connection :
+URL: jdbc:postgresql://localhost:5432/travelagencymanagement
+USERNAME: postgres
+PASSWORD: postgres
+---------------------------
