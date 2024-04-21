@@ -37,7 +37,7 @@ Username: admin
 Password: admin
 
 ## Video
-[![Demo Video](https://drive.google.com/file/d/1WPjrb0quuAfROPemSSMvwkoZWyw-2Iuq/view)]()
+[![Demo Video](https://drive.google.com/file/d/1WPjrb0quuAfROPemSSMvwkoZWyw-2Iuq/view?usp=sharing)](https://drive.google.com/file/d/1WPjrb0quuAfROPemSSMvwkoZWyw-2Iuq/view?usp=sharing)
 
 
 ## Screenshots
