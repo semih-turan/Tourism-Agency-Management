@@ -1,6 +1,7 @@
 # Patika Tourism Agency Software
 Patika Tourism Agency is ready for digital transformation. The Hotels Management System aims to optimize daily operations and expedite reservations with features like user-friendly interface, flexible pricing, and automated calculations, enhancing efficiency and replacing manual tasks.
 
+[![Semih Turan Github Account](/assets/banner.png "Semih Turan Github Account")](https://github.com/semih-turan)
 
 ## Features
 
