@@ -1,5 +1,5 @@
-# Patika Travel Agency Software
-Patika Travel Agency is ready for digital transformation. The Hotels Management System aims to optimize daily operations and expedite reservations with features like user-friendly interface, flexible pricing, and automated calculations, enhancing efficiency and replacing manual tasks.
+# Patika Tourism Agency Software
+Patika Tourism Agency is ready for digital transformation. The Hotels Management System aims to optimize daily operations and expedite reservations with features like user-friendly interface, flexible pricing, and automated calculations, enhancing efficiency and replacing manual tasks.
 
 
 ## Features
@@ -24,12 +24,12 @@ Patika Travel Agency is ready for digital transformation. The Hotels Management 
 
 1. Clone the project:
     ```bash
-    git clone https://github.com/semih-turan/Travel-Agency-Management.git
+    git clone https://github.com/semih-turan/Tourism-Agency-Management.git
     ```
 2. Install PostgreSQL
-3. Import SQL/travelagencymanagement.sql on your database
+3. Import SQL/tourismAgencyManagement.sql on your database
 3. Open the project in your IDE.
-4. Configure the database connection in `src/Log/data.txt`.
+4. Configure the database connection in `src/Log/DBconfigure.properties`.
 5. Compile and run the project.
 
 P.S: Default admin login credentials
