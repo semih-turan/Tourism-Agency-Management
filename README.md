@@ -26,36 +26,32 @@ Patika Tourism Agency is ready for digital transformation. The Hotels Management
     ```bash
     git clone https://github.com/semih-turan/Tourism-Agency-Management.git
     ```
-2. Install PostgreSQL
-3. Import SQL/tourismAgencyManagement.sql on your database
-3. Open the project in your IDE.
-4. Configure the database connection in `src/Log/DBconfigure.properties`.
-5. Compile and run the project.
+2. Install PostgreSQL.
+3. Create a new database named `toursimAgencyManagemennt` in PostgreSQL.
+4. Restore this database using the SQL file located at `SQL/tourismAgencyManagement.sql` and named `tourismAgencyManagement.sql`.
+5. Update the PostgreSQL username and password from the file located at `Tourism-Agency-Management/src/Log/DBconfigure.properties`.
+6. Compile and run the program with an IDE.
 
-P.S: Default admin login credentials
-Username: admin
-Password: admin
+***P.S:*** *Default admin login credentials*
+*Username: admin*
+*Password: admin*
 
 ## Video
-[![Demo Video](https://drive.google.com/file/d/1WPjrb0quuAfROPemSSMvwkoZWyw-2Iuq/view?usp=sharing)](https://drive.google.com/file/d/1WPjrb0quuAfROPemSSMvwkoZWyw-2Iuq/view?usp=sharing)
+[<img src="/assets/logo.png" width="75%">](https://www.youtube.com/watch?v=O9jJBuAfaz4 "Tourism Agency Management Demo Video")
 
 
 ## Screenshots
 
-![](assets/1.png)
-![](assets/2.png)
-![](assets/3.png)
-![](assets/4.png)
-![](assets/5.png)
-![](assets/6.png)
-![](assets/7.png)
-![](assets/8.png)
-![](assets/9.png)
-![](assets/10.png)
-![](assets/11.png)
-![](assets/12.png)
-![](assets/13.png)
-![](assets/14.png)
+![](assets/1-LoginPage.png)
+![](assets/2-MenuPageAdmin.png)
+![](assets/3-MenuPage-Employee.png)
+![](assets/4-UserManagementPage.png)
+![](assets/5-HotelManagementPageHotels.png)
+![](assets/6-HotelManagementSeasons.png)
+![](assets/7-HotelManagementRooms.png)
+![](assets/8-HotelManagementPansions.png)
+![](assets/9-ReservationSearch.png)
+![](assets/10-ReservationList.png)
 
 
 ## Usage
@@ -65,6 +61,10 @@ Password: admin
 3. Agency staff adds hotels and rooms to the system.
 4. Agency staff adds periods and sets prices.
 5. Agency staff searches for rooms based on customer requests and makes reservations.
+
+## Requirements
+- Java JDK 22 or higher
+- PostgreSQL Driver Version 42.7.31
 
 ## Contributions
 
